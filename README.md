@@ -11,12 +11,12 @@ Android , Kotlin , Quiz , SplashScreen
 <img src="Screenshot/000.png" alt="drawing1" width="250">
 </p>
 
-# Screen  ✅
+# UserName ✅
 <p align="center">
 <img src="Screenshot/001.png" alt="drawing1" width="250">
 </p>
 
-# Screen
+# Questions 
 <p align="center">
 <img src="Screenshot/003.png" alt="drawing1" width="250">
 </p>
