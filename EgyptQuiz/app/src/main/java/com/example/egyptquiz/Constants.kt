@@ -1,6 +1,6 @@
 package com.example.egyptquiz
 
-class Constants {
+object Constants{
 
     //const val USER_NAME: String = "user_name"
     // const val TOTAL_QUESTIONS: String = "total_questions"
@@ -107,8 +107,7 @@ class Constants {
         )
         questionsList.add(que10)
 
-
-
+    /*
         // 11
         val que11 = Question(
             11, "Зачем египтяне бальзамировали тела мертвых?",
@@ -171,9 +170,6 @@ class Constants {
         )
         questionsList.add(que17)
 
-
-
-
         // 18
         val que18 = Question(
             18, "На берегу какой реки располагался Древний Египет?",
@@ -198,7 +194,7 @@ class Constants {
             "Снегопады", "Тропики", 2
         )
         questionsList.add(que20)
-
+     */
         return questionsList
     }
 }
