@@ -18,5 +18,5 @@ Android , Kotlin , Quiz , SplashScreen
 
 # Questions 
 <p align="center">
-<img src="Screenshot/003.png" alt="drawing1" width="250">
+<img src="Screenshot/002.png" alt="drawing1" width="250">
 </p>
