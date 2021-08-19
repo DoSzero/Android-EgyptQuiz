@@ -1,14 +1,13 @@
 # Egypt Quiz
 ## Android , Kotlin , Quiz , SplashScreen
 
-### 1-st PART  app was written  4 hours !!
-This is App is my test for position Junior Android Dev
-
+### Update 1-st PART  app was written 3 hours !!
 Maybe in the Future, I will End all of but at this moment it's app ready for 60%
-### 2-cond PART 
+
+### Update 2-cond PART spend 2 hours !!
 for 19.08.2021 app ready for 90 % 
-spend 2 hours   
-(In Total 6 hours)
+Total 5 hours
+
 
 # Splash Screen  ✅
 <p align="center">
@@ -20,7 +19,7 @@ spend 2 hours   
 <img src="Screenshot/001.png" alt="drawing1" width="250">
 </p>
 
-# Questions 
+# Questions ✅
 <p align="center">
 <img src="Screenshot/002.png" alt="drawing1" width="250">
 </p>
@@ -31,7 +30,7 @@ spend 2 hours   
 <img src="Screenshot/004.png" alt="drawing1" width="250">
 </p>
 
-## Result 
+## Result ✅
 <p align="center">
 <img src="Screenshot/005.png" alt="drawing1" width="250">
 </p>
